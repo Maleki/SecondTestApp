@@ -10,6 +10,8 @@ namespace SecondTestApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("there");
+
         }
     }
 }
